@@ -13,8 +13,8 @@ A web application for creating and maintaining Patient Records and Prescriptions
 
 #### POST User Login
 
-```http
-  GET /api/login
+```http GET
+  /api/login
 ```
 
 | Parameter | Type     | Description                |
